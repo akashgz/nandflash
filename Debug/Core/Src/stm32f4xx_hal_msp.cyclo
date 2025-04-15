@@ -1,0 +1,5 @@
+../Core/Src/stm32f4xx_hal_msp.c:64:6:HAL_MspInit	1
+../Core/Src/stm32f4xx_hal_msp.c:83:13:HAL_FSMC_MspInit	2
+../Core/Src/stm32f4xx_hal_msp.c:132:6:HAL_NAND_MspInit	1
+../Core/Src/stm32f4xx_hal_msp.c:144:13:HAL_FSMC_MspDeInit	2
+../Core/Src/stm32f4xx_hal_msp.c:181:6:HAL_NAND_MspDeInit	1
